@@ -3,7 +3,7 @@
 
 文章的编译可能存在错误，如果您希望交流讨论，请联系：h-zhao20@mails.tsinghua.edu.cn
 
-This is my literature introduction in Dr.Yu's weekly meeting, feel free to contact [my email](h-zhao20@mails.tsinghua.edu.cn) for any questions. 
+This is my literature introduction in Dr.Yu's weekly meeting, feel free to contact [me](h-zhao20@mails.tsinghua.edu.cn) for any questions. 
 
 XD
 
