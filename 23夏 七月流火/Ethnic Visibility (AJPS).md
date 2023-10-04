@@ -1,0 +1,112 @@
+# Ethnic Visibility (AJPS)
+
+## 本文作者
+
+Amanda Lea Robinson, Department of Political Science, Ohio State University.
+
+![Lea Robinson [Profiles] • Instagram, Twitter, TikTok | Foller](data:image/jpeg;base64,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)
+
+## 一句话总结
+
+Ethnic Visibility
+
+特征更明显的==（少数）民族群体==更有可能支持民族主义政党
+
+马拉维的种族主义政党 + 非洲的跨国分析
+
+## 文献综述和背景介绍
+
+- Ethnic Politics
+	- 在撒哈拉以南非洲，选举跟种族有密切的关系
+	- 在低信息、弱制度化的社会中，种族发挥的作用更明显
+	- 种族差异导致武装冲突/少数民族群体更有可能因为民族政党的政策获益
+- Is ethnicity actually visible? 
+	- Harris et al. (2018) define ethnic visibility, which they call “ethnic identifiability,” formally, starting from a dyadic interaction between **two individuals** in which one attempts to **classify the other’s ethnicity**—and can either do so **correctly** (“placing”) or **incorrectly** (“passing”) 
+		- 外貌、衣着、语言、口音、名字……
+	- 一些是种族是可见的，而另一些则不明显
+	- 如果一个人不能被识别出“少数种族”的身份，那么他就不太可能成为有组织暴力的对象
+	- ethnicity 发挥作用的前提是 visible
+- 马拉维的种族政治
+	- 1994年开始进行选举
+	- 起初的政党是地区性的，北方、中部、南部有各自的政党
+	- 2005年，UDF政党的领导人成立的新政党DPP，并在后续的两次选战里取得了胜利
+	- DPP的主要支持者是Lhomwe这一种族群体
+		- （隆韦族 占比19%（百度百科）
+	- <img src="/Users/zhaohe/Library/Application Support/typora-user-images/image-20230802120346629.png" alt="image-20230802120346629" style="zoom:50%;" />
+
+## 研究设计
+
+### 马拉维的种族政党
+
+2016年的农村调查 + 2019年的城市调查，样本量2000+
+
+- 变量设置
+
+	- 自变量：ethnic visibility
+
+		- <img src="/Users/zhaohe/Library/Application Support/typora-user-images/image-20230802120640761.png" alt="image-20230802120640761" style="zoom:50%;" />
+		- 5个二分变量：Lhomwe-signaling first name, Lhomwe-signaling surname, competency in the Lhomwe language, “别人弄错你的种族的频率”，“你认为你自己是一个典型的Lhomwe人吗”
+		- 形成了一个标准化的指标
+			- <img src="/Users/zhaohe/Library/Application Support/typora-user-images/image-20230802120915553.png" alt="image-20230802120915553" style="zoom:50%;" />
+				- 指标比较简单（proportion）
+				- 作者的解释：在面对面交往中，语言可能才是最重要的因素，但在线上投递简历时，名字也很重要；作者关心的是generalized visibility；这是一种主观的测量，可能是受到客观影响后内化的；后续的研究可以进一步缩限/发展
+
+	- 因变量：party support
+
+		- 你是否觉得自己属于某个政党，哪个政党？
+
+		- 对DPP的支持
+
+- 实证结果
+
+	- ![image-20230802121513191](/Users/zhaohe/Library/Application Support/typora-user-images/image-20230802121513191.png)
+
+	- 种族可见性 的增加会提高支持 DPP 的平均可能性
+
+	- 问题：内生性？
+
+		- 所有的指标都是自主汇报的；因为种族归属感强才觉得自己的种族特征明显？
+
+			- 更换了自变量的测量方式，是正相关的
+			- 工具变量：祖父是不是Lhomwe人？
+				- 母系社会，只有祖母是Lhomwe人才会被认为是Lhomwe人，但姓氏是从父亲一支传下来的
+				- 且DPP是一个相对较新的政党，不存在家族内部的政治社会化问题
+
+			- 所以 祖父 的姓氏会影响 ethnic visibility，但不会直接影响一个人是否支持DPP
+			- ![image-20230802122316789](/Users/zhaohe/Library/Application Support/typora-user-images/image-20230802122316789.png)
+			- stage 1  F=32.10
+
+- 机制分析
+
+	- 如果假设是正确的，那么Lhomwe人会更多地表达对种族的归属感，更有可能受益于DPP的政策
+	- 稳健
+	- 信号传递
+		- 在Lhomwe聚居区，一个人更容易被认为是这个种族的人，此时individual variation不太重要
+		- <img src="/Users/zhaohe/Library/Application Support/typora-user-images/image-20230802123141201.png" alt="image-20230802123141201" style="zoom:50%;" />
+
+### 非洲的跨国分析
+
+Group Voting Fractionalization index from 26 countries
+
+- 用==语言的相似性==测量ethnic visibility
+	- 两个种族的语言之间在语系上的共同点
+	- 为什么？
+		- data is ready
+		- 语言很重要，语言的不同反映了历史上种族隔离的程度
+		- ![image-20230802123356662](/Users/zhaohe/Library/Application Support/typora-user-images/image-20230802123356662.png)
+
+## 结论和讨论
+
+种族身份需要被“激活”
+
+工具主义的族群政治
+
+
+
+- 对自己局限性的讨论
+- individual level
+	- ethnic visibility 是对别人而言还是对自己而言？
+	- 在理论上，是指个体的身份能不能被“别人”辨识出来，但文章的测量都是自主汇报
+	- 有一定的混淆？可能跟现实的社会互动还有距离
+	- 我觉得内生性的问题还是很严重（
+- 挺好玩的
